@@ -17,5 +17,11 @@
             "name": "Oxunjon Abdurashidov"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/your-vendor/instagram-api.git"
+        }
+    ]
 }
