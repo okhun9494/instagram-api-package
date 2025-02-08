@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a57432d-c56d-46d5-8e14-a30dcc1ec12b" name="Changes" comment="add xml files to package">
+    <list default="true" id="2a57432d-c56d-46d5-8e14-a30dcc1ec12b" name="Changes" comment="add readme md file for documentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739006911842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add readme md file for documentation">
+      <option name="closed" value="true" />
+      <created>1739007839916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739007839916</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add xml files to package" />
-    <option name="LAST_COMMIT_MESSAGE" value="add xml files to package" />
+    <MESSAGE value="add readme md file for documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme md file for documentation" />
   </component>
 </project>
