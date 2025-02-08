@@ -1,0 +1,21 @@
+{
+    "name": "rapid-api/instagram-scrapper",
+    "description": "Get instagram posts and reels from rapid API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "ext-json": "*"
+    },
+    "license": "1.0",
+    "autoload": {
+        "psr-4": {
+            "RapidApi\\InstagramScrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oxunjon Abdurashidov"
+        }
+    ],
+    "minimum-stability": "dev"
+}
