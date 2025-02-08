@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a57432d-c56d-46d5-8e14-a30dcc1ec12b" name="Changes" comment="" />
+    <list default="true" id="2a57432d-c56d-46d5-8e14-a30dcc1ec12b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,21 @@
       <executable path="composer" />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "okhun9494"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/okhun9494/instagram-api-package.git",
+    "accountId": "bf6927d0-e8b8-4f3b-a636-573e977ca09e"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\OSPanel\modules\php\PHP_8.0\php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psr/http-client" />
@@ -30,6 +49,7 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2skjb9zU9GIRp52N1VzN9zMX9Du" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -39,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/OSPanel/domains/instagram-api-package",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -60,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739006536064</updated>
-      <workItem from="1739006537278" duration="153000" />
+      <workItem from="1739006537278" duration="255000" />
     </task>
     <servers />
   </component>
